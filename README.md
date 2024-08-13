@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74CDB&random=false&width=400&lines=Hi+There!!;+I'm+Risma;" />
 </h1>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=F700E8&lines=Hi+There!;I+am+Risma" />
+</h1>
+
 <h3 align="center"> I'm currently a software engineering student at Universitas Gadjah Mada and I'm eager to delve deeper into the realm of software.</h3>
 
 <br>
