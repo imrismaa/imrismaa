@@ -25,10 +25,10 @@
     <h2>🌐 Connect With Me 🌐</h2>
     <p>
         <a href="https://www.linkedin.com/in/rismasaputri/" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifa-indra-setiawan-b311a424a" height="30" width="40" />
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rismasaputri" height="30" width="40" />
         </a>
         <a href="https://www.instagram.com/imrismaa" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rindraset" height="30" width="40" />
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@imrismaa" height="30" width="40" />
         </a>
     </p>
 </div>
