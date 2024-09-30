@@ -63,11 +63,11 @@
 
 <table style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=imrismaa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /></td>
-    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imrismaa&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=imrismaa&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" /></td>
+    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imrismaa&theme=radical&hide_border=false" alt="GitHub Streak" /></td>
   </tr>
   <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none;"><img src="https://github-contributor-stats.vercel.app/api?username=imrismaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" /></td>
+    <td colspan="2" align="center" style="border: none;"><img src="https://github-contributor-stats.vercel.app/api?username=imrismaa&limit=5&theme=radical&show_icons=true&hide_border=false&combine_all_yearly_contributions=true" alt="Contributor Stats" /></td>
   </tr>
   </tr>
 </table>
@@ -76,4 +76,4 @@
 <br>
 
 
-<p align="center""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrismaa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></p>
+<p align="center""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrismaa&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /></p>
